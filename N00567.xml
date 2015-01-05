@@ -109,8 +109,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000696_0000_0FA9A17306F0AC20"/>
-            <pb facs="tcp:000696_0001_0FA9A17327CEC3F0"/>
+            <pb facs="unknown:000696_0000_0FA9A17306F0AC20"/>
+            <pb facs="unknown:000696_0001_0FA9A17327CEC3F0"/>
             <p>ACTS AND LAWS, Passed by the Great and General Court or Assembly of Their Majesties Province of the Massachusetts-Bay, in NEW-ENGLAND.</p>
             <p>Begun at <hi>Boston,</hi> the Thirtieth Day of <hi>MAY,</hi> 1694. And Continued by Adjournment unto <hi>Wednesday</hi> the Fifth Day of <hi>September</hi> following: Being the Second Sessions.</p>
             <p>Anno Regni GUILIELMI, et MARIAE, Regis et Reginae, Angliae, Scotiae, Franciae, et Hiberniae, <hi>Sexto.</hi>
@@ -121,7 +121,7 @@
       <body>
          <div type="act">
             <pb n="77"
-                facs="tcp:000696_0002_0FA9A173B3AF6260"
+                facs="unknown:000696_0002_0FA9A173B3AF6260"
                 rendition="simple:additions"/>
             <head>Anno Regni Regis et Reginae, <hi>Gulielmi</hi> et <hi>Mariae,</hi> Sexto. AN ACT, For Encouraging the Prosecution of the <hi>Indian Enemy</hi> &amp; Rebels; and preserving such as are Friends.</head>
             <p>
@@ -143,7 +143,7 @@ to befall any of them by the English in their pursuit of the Common Enemy: As al
                   <hi>Boundaries set to the Indians.</hi>
                </note> shall be discovered of found to the <hi>Westward</hi> of the a<g ref="char:EOLhyphen"/>foresaid Road or high-way, or within half a Mile of the <hi>Easterly</hi> side of the said Road or any part thereof; or without any other of the Limits, and Boundaries that shall be appointed, and set them by the Governour and Council as aforesaid. Shall be deemed and accounted as Enemies. And it shall and may be lawfull to and for any of Their Majesties Sub<g ref="char:EOLhyphen"/>jects to treat and prosecute them as such: Unless they be <hi>Indians</hi> improv<g ref="char:EOLhyphen"/>ed in Service by the Governour, with the advice of the Council; and have one or more English-men Conduct and accompany them.</p>
             <p>
-               <pb n="78" facs="tcp:000696_0003_0FA9A17479C43D10"/>
+               <pb n="78" facs="unknown:000696_0003_0FA9A17479C43D10"/>
                <hi>This</hi> Act to be made known to the <hi>Indians</hi> of the several Plantations, by the care of the Select men of the English Towns next Adjacent.</p>
             <p>
                <hi>Saving</hi> all the Land lying within the County of <hi>Hampshire</hi> on the <hi>West</hi> side of <hi>Connecticut River,</hi>
@@ -178,7 +178,7 @@ War are hereby Impowred and Ordered, upon the producing and de<g ref="char:EOLhy
          </div>
          <div type="act">
             <pb n="79"
-                facs="tcp:000696_0004_0FA9A17535233DB0"
+                facs="unknown:000696_0004_0FA9A17535233DB0"
                 rendition="simple:additions"/>
             <head>AN ACT, For the giving Succours and Assistance to the Neighbouring Provinces and Colonies, against Their Majesties Enemies.</head>
             <p>
@@ -191,7 +191,7 @@ War are hereby Impowred and Ordered, upon the producing and de<g ref="char:EOLhy
          </div>
          <div type="act">
             <pb n="80"
-                facs="tcp:000696_0005_0FA9A175F537FA48"
+                facs="unknown:000696_0005_0FA9A175F537FA48"
                 rendition="simple:additions"/>
             <head>AN ACT, For Regulation of the late Tax, and for Granting an Additional Supply of Money.</head>
             <p>
@@ -218,7 +218,7 @@ War are hereby Impowred and Ordered, upon the producing and de<g ref="char:EOLhy
                </gap> is to say,</p>
             <p>
                <pb n="81"
-                   facs="tcp:000696_0006_0FA9A176BAABDDF0"
+                   facs="unknown:000696_0006_0FA9A176BAABDDF0"
                    rendition="simple:additions"/>
                <table>
                   <row>
@@ -559,7 +559,7 @@ War are hereby Impowred and Ordered, upon the producing and de<g ref="char:EOLhy
                      <cell>00</cell>
                   </row>
                   <pb n="82"
-                      facs="tcp:000696_0007_0FA9A177734872D0"
+                      facs="unknown:000696_0007_0FA9A177734872D0"
                       rendition="simple:additions"/>
                   <row>
                      <cell>
@@ -923,7 +923,7 @@ War are hereby Impowred and Ordered, upon the producing and de<g ref="char:EOLhy
             </p>
             <p>
                <pb n="83"
-                   facs="tcp:000696_0008_0FA9A17871D8D188"
+                   facs="unknown:000696_0008_0FA9A17871D8D188"
                    rendition="simple:additions"/>And be it further Enacted by the Authority aforesaid,</p>
             <p>That the Treasurer do forthwith send his Warrants unto the Assessors of each Town and Precinct aforesaid,<note place="margin">
                   <hi>The Treasurer forthwith to send his war<g ref="char:EOLhyphen"/>rants to the assessors:</hi>
@@ -942,7 +942,7 @@ War are hereby Impowred and Ordered, upon the producing and de<g ref="char:EOLhy
                </note> by not making or not returning of their Lists within the time before prefixed, being thereof convicted before the Court of General Sessions of the Peace within the same County, upon Complaint made by the Treasurer or any on his behalf, they shall forfeit and pay unto Their Majesties, for the ends and uses for which this Tax is grant<g ref="char:EOLhyphen"/>ed, the full Sum proportioned to such Town or Precinct, to be levied by distress and Sale of such defective Assessors Goods or Estate. And all Assessors shall be paid by the Treasurer of their respective Towns, <hi>Two Shillings</hi> and <hi>Six pence Per. diem,</hi> Each, for every days time, they spend in said Service.</p>
             <p>
                <pb n="84"
-                   facs="tcp:000696_0009_0FA9A17BA45A7520"
+                   facs="unknown:000696_0009_0FA9A17BA45A7520"
                    rendition="simple:additions"/>
                <hi>And be it further Enacted by the Authority aforesaid,</hi>
             </p>
@@ -979,7 +979,7 @@ War are hereby Impowred and Ordered, upon the producing and de<g ref="char:EOLhy
          </div>
          <div type="act">
             <pb n="85"
-                facs="tcp:000696_0010_0FA9A17C03D504A0"
+                facs="unknown:000696_0010_0FA9A17C03D504A0"
                 rendition="simple:additions"/>
             <head>AN ACT, To Restrain the Exportation of <hi>Pitch, Tar, Rozin, Plank</hi> and <hi>Ship-Timber.</hi>
             </head>
